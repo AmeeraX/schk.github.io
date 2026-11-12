@@ -1,15 +1,3 @@
-############################################
-WORKER INFO – DO NOT COPY THIS PARTs
-############################################
-
-Repository name: lexique-societe-hong-kong
-Description: Lexique français-anglais de la société à Hong Kong : tous les termes expliqués
-Topics: glossaire, lexique, hong-kong, company-law, entrepreneur
-
-############################################
-README TEXT – COPY EVERYTHING BELOW THIS LINE
-############################################
-
 Lexique de la société à Hong Kong (français – anglais)
 
 Les démarches de création et de gestion d'une société à Hong Kong se font en anglais, avec un vocabulaire juridique précis. Ce lexique explique chaque terme en français. Pour un accompagnement sans barrière de langue : societehongkong.com (https://societehongkong.com/).
