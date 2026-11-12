@@ -1,5 +1,5 @@
 ############################################
-WORKER INFO – DO NOT COPY THIS PART
+WORKER INFO – DO NOT COPY THIS PARTs
 ############################################
 
 Repository name: lexique-societe-hong-kong
